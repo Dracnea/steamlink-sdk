@@ -1,3 +1,5 @@
+# This is a fork for Chimera Cluster
+Using the given SDK/API and code/examples from the original forked git I will begin to work on puttin my Steam Link in a dev mode. This will include custom Steam Link Apps (mainly for clustering), Root Access, and SSH Access.
 
 # SDK for the Valve Steam Link
 
